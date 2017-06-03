@@ -1,0 +1,14 @@
+$primary: #fff;
+$secondary: #DEDEDE;
+$ternary: #313732;
+$blended: #8AA8B0;
+$accent: #FF3D2E;
+
+body {
+  background-color: $primary;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  color: $accent;
+}

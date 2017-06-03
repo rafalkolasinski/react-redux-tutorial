@@ -4,3 +4,5 @@ import MovieReducer from './reducer-movies';
 const allReducers = combineReducers({
    movies: MovieReducer
 });
+
+export default allReducers;
